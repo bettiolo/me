@@ -15,3 +15,7 @@ https://twitter.com/musichackday/status/477478338219753472
 
 https://www.flickr.com/photos/thomasbonte/11274607023/
 https://www.flickr.com/photos/thomasbonte/11274577134/
+https://www.youtube.com/watch?v=M6zuvhwJfwg
+https://www.hackerleague.org/hackathons/music-hack-day-london-2013/hacks/leap-motion-dj-console
+https://twitter.com/leapmotion/status/411159040098840576
+http://www.rockol.com/uk/news-559059/music-hack-day-london-2013-the-hacks-and-the-winners
