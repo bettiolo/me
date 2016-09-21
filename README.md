@@ -25,3 +25,5 @@ Random stuff about me
 - http://www.rockol.com/uk/news-559059/music-hack-day-london-2013-the-hacks-and-the-winners
 
 - http://nodeknockout.com/teams/seven-digital
+
+- https://s3-eu-west-1.amazonaws.com/uploads-eu.hipchat.com/111274/3749435/AFMkCYPeQgQb21s/isomorphic-javascript.mp4
